@@ -9,3 +9,5 @@ This repository provides the code and data for EMPO, which achieves enhanced mod
 
 **Attention weight heatmaps** of outputs to image and instruction tokens from LLaVA-1.5 and EMPO. The hallucinated tokens are highlighted in red. The image is tokenized into 4×4 patches (above the red dash line).
 ![Attention weight heatmaps](./asserts/case2.png)
+
+#### The code and dataset will be released after the paper is accepted.
